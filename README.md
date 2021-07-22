@@ -22,7 +22,7 @@ Common tasks and other operations in the unified scheduling system, support mult
 
 # Control system
 - **Organization structure system**  
-Support the full life cycle management of employee information of enterprise organizations of all sizes at SaaS level.
+Full life cycle management of employee information of enterprise organizations of all sizes at SaaS level.
 - **Authority control system**  
 Support SaaS level authority control system, complete data and function control.
 - **Message notification system**  
