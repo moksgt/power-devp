@@ -1,9 +1,9 @@
 # Power low-code platform
 Low code fast build
-Business management system
+Business management system.
 
-My development tool, the team's development platform
-Don't repeat, Rapid development
+My development tool, the team's development platform,
+Don't repeat, Rapid development.
 
 
 # System engine
